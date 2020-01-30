@@ -20,20 +20,20 @@
   <defs
      id="defs2">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient682">
+       id="linearGradient11443"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#808080;stop-opacity:1;"
+         id="stop11439"
          offset="0"
-         id="stop678" />
+         style="stop-color:#666666;stop-opacity:1" />
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:1"
+         id="stop11441"
          offset="1"
-         id="stop680" />
+         style="stop-color:#4d4d4d;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient682"
+       xlink:href="#linearGradient11443"
        id="linearGradient684"
        x1="180"
        y1="155"
@@ -42,7 +42,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient682"
+       xlink:href="#linearGradient11443"
        id="linearGradient698"
        x1="180"
        y1="70"
@@ -58,16 +58,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="151.95639"
-     inkscape:cy="165.47154"
+     inkscape:cx="182.88751"
+     inkscape:cy="172.22203"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1614"
-     inkscape:window-height="844"
-     inkscape:window-x="4"
-     inkscape:window-y="48"
+     inkscape:window-width="1795"
+     inkscape:window-height="1003"
+     inkscape:window-x="345"
+     inkscape:window-y="73"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -171,13 +171,13 @@
        inkscape:connector-curvature="0"
        transform="matrix(0.26458333,0,0,0.26458333,0,201.74997)" />
     <path
-       style="fill:#808080;stroke:#000000;stroke-width:5.00000006;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#666666;stroke:#000000;stroke-width:5.00000006;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 131.61876,153.91771 c 0,-0.14506 0.91168,-2.07698 2.02595,-4.29315 l 2.02594,-4.0294 h 44.43544 44.43543 l 2.02595,4.0294 c 1.11426,2.21617 2.02594,4.14809 2.02594,4.29315 0,0.14506 -21.8193,0.26375 -48.48732,0.26375 -26.66803,0 -48.48733,-0.11869 -48.48733,-0.26375 z"
        id="path658"
        inkscape:connector-curvature="0"
        transform="matrix(0.26458333,0,0,0.26458333,0,201.74997)" />
     <path
-       style="fill:#808080;stroke:#000000;stroke-width:5.00000006;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#666666;stroke:#000000;stroke-width:5.00000006;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 148.40252,139.78679 2.12919,-4.29315 h 29.42876 29.42877 l 2.02594,4.0294 c 1.11427,2.21617 2.02594,4.14808 2.02594,4.29315 0,0.14506 -15.11275,0.26374 -33.58389,0.26374 h -33.58389 z"
        id="path660"
        inkscape:connector-curvature="0"
