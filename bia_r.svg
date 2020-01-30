@@ -20,6 +20,22 @@
   <defs
      id="defs2">
     <linearGradient
+       id="linearGradient13965"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#550000;stop-opacity:1"
+         offset="0"
+         id="stop13959" />
+      <stop
+         id="stop13961"
+         offset="0.78260869"
+         style="stop-color:#ff5555;stop-opacity:1" />
+      <stop
+         style="stop-color:#550000;stop-opacity:1"
+         offset="1"
+         id="stop13963" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient212">
       <stop
@@ -82,7 +98,7 @@
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient212"
+       xlink:href="#linearGradient13965"
        id="radialGradient8447"
        cx="180"
        cy="180.00005"
@@ -100,14 +116,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="182.15757"
+     inkscape:cx="165.55043"
      inkscape:cy="178.28416"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1849"
-     inkscape:window-height="931"
+     inkscape:window-width="1698"
+     inkscape:window-height="963"
      inkscape:window-x="4"
      inkscape:window-y="48"
      inkscape:window-maximized="0">
@@ -123,7 +139,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
